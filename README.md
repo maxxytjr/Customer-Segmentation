@@ -6,7 +6,7 @@ This project is modeled after a real-world business problem posed by Arvato Fina
 
 This was achieved by analyzing the attributes and demographic information of existing customers and the rest of the population in Germany, begging the question: *what makes a customer or a non-customer?*.
 
-The insights gained could be used to motivate marketing strategies targeted at specific clusters of the population, instead of reaching out to the whol population of Germany.
+The insights gained could be used to motivate marketing strategies targeted at specific clusters of the population, instead of reaching out to the entire population of Germany.
 
 # Datasets
 
