@@ -41,6 +41,12 @@ Further details of the dataset cannot be shared due to license agreements.
 ## Kaggle competition
   * Evaluate model on the dataset provided by Kaggle by predicting the probabilities of the target variable. The AUROC score was used as the scoring metric.
 
+
+# Summary of Results (Supervised Learning)
+  * Gradient Boosting Classifier determined to be the best model to use, based on its **cross-validation** score (0.98752). Random Forest Classifier came in very close (0.98749). However, Gradient Boosting Classifier took exceptionally long to train.
+  * AUROC score of **0.722** on split test set
+  * AUROC score of **0.79** on Kaggle test set
+  
 # Libraries Required
   * Python 3
   * Scikit-Learn
@@ -48,11 +54,12 @@ Further details of the dataset cannot be shared due to license agreements.
   * Seaborn
   * MatPlotLib
   * Numpy
-
-# Summary of Results (Supervised Learning)
-  * Gradient Boosting Classifier determined to be the best model to use, based on its **cross-validation** score (0.98752). Random Forest Classifier came in very close (0.98749). However, Gradient Boosting Classifier took exceptionally long to train.
-  * AUROC score of **0.722** on split test set
-  * AUROC score of **0.79** on Kaggle test set
+  * pickle
+  
+# Description of Files
+  * README.md -- The file you are reading now
+  * Arvato Project Workbook.ipynb -- Jupyter notebook containing the steps above from start to finish
+  * final_model.pkl -- Model artifacts for the selected supervised learning model
 
 
 # License and Acknowledgements
