@@ -2,7 +2,7 @@
 Customer Segmentation and Prediction for Arvato Financial Solutions
 
 # Background
-This project is modeled after a real-world business problem posed by Arvato Financial Solutions. The business owner is a mail-order company who wants to determine how they can acquire new customers more efficiently and effectively. 
+This [project](https://www.kaggle.com/c/udacity-arvato-identify-customers) is modeled after a real-world business problem posed by Arvato Financial Solutions. The business owner is a mail-order company who wants to determine how they can acquire new customers more efficiently and effectively. 
 
 This was achieved by analyzing the attributes and demographic information of existing customers and the rest of the population in Germany, begging the question: *what makes a customer or a non-customer?*.
 
